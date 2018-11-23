@@ -1,6 +1,6 @@
 ## 『CopyBook¼』仿去哪儿网webapp
 
-『CopyBook¼』仿去哪儿网移动端webapp
+仿去哪儿网移动端webapp，基于vue2.5开发
 
 ## Dependencies
 |  dependencies  |  version  |
@@ -31,4 +31,4 @@ npm run build
 npm run build --report
 ```
 ## Screenshots
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1123/162827_a0c89ccc_1063291.gif "20181123162758.gif")
+![效果图](https://images.gitee.com/uploads/images/2018/1123/162827_a0c89ccc_1063291.gif "20181123162758.gif")
